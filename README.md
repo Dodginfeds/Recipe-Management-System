@@ -30,7 +30,7 @@ This project demonstrates fundamental Python programming concepts:
 
 ### 🔹 Clone the Repository
 ```bash
-git clone https://github.com/yourusername/recipe-manager.git
+git clone https://github.com/Dodginfeds/recipe-manager.git
 cd recipe-manager
 ```
 
@@ -99,7 +99,7 @@ This project is open-source and available under the **MIT License**.
 
 ### 👨‍🍳 Author
 Developed by **Your Name**  
-For any inquiries, feel free to reach out via [GitHub](https://github.com/yourusername).
+For any inquiries, feel free to reach out via [GitHub](https://github.com/Dodginfeds).
 
 ---
 
@@ -109,7 +109,7 @@ Feel free to fork this project and submit a pull request.
 
 ```bash
 # Fork the repository
-git clone https://github.com/yourusername/recipe-manager.git
+git clone https://github.com/Dodginfeds/recipe-manager.git
 
 # Create a new branch
 git checkout -b feature-new-recipe
